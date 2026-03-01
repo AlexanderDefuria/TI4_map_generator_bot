@@ -23,7 +23,7 @@ Branch permissions can be granted, but for now you may fork the repository and c
 1. Enable developer mode on your Discord client, if you have not already
 2. Create a new Discord Server
 3. Record the Server's ID (right click Server Name -> "Copy Server ID")
-4. Setup a Test Bot - see [Step 1 from here](https://discord.com/developers/docs/getting-started#step-1-creating-an-app). The main steps are:
+4. Setup a Test Bot - see [Step 1 from here](https://docs.discord.com/developers/quick-start/getting-started#step-1-creating-an-app). The main steps are:
    * Note down the bot's credentials.
    * Enable "Privileged Gateway Intents".
    * Tick both Installation Contexts' Methods.
